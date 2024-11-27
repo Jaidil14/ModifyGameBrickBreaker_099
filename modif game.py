@@ -1,5 +1,6 @@
 import tkinter as tk
 
+
 class GameObject(object):
     def __init__(self, canvas, item):
         self.canvas = canvas
